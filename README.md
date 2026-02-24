@@ -7,6 +7,7 @@ InspireHub is a simple and responsive React-based Quote Generator that fetches r
 	•	Display total liked quotes
 	•	Loading state handling
 	•	Clean and minimal UI
+	•   Filter Button
 
 🛠️ Built With
 	•	HTML
@@ -18,3 +19,5 @@ InspireHub is a simple and responsive React-based Quote Generator that fetches r
 	•	On load, the app fetches a random quote.
 	•	Users can generate new quotes.
 	•	Liked quotes are saved in the browser and remain even after refresh.
+	•   Unique filter Button to filter out quotes of a particular author.
+	
